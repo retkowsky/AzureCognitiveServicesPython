@@ -1,5 +1,5 @@
 # Azure Cognitive Services Python
-Notebooks Python Azure Cognitive Services
+Notebooks Python de démonstration des services cognitifs Azure.
 
 https://azure.microsoft.com/fr-fr/services/cognitive-services/
 
